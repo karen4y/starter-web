@@ -1,3 +1,4 @@
 operate.txt
 *.log
 log/
+*.orig
